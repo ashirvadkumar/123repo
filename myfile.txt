@@ -1,7 +1,11 @@
 hello
 
 
+<<<<<<< HEAD
 
 
 
 hello  u2
+=======
+hello   u1
+>>>>>>> 1c312005a35d34fcae3341070d015121030566bf
